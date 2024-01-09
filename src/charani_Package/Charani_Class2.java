@@ -2,7 +2,7 @@ package charani_Package;
 
 import java.util.Scanner;
 
-public class Charani_Class1 {
+public class Charani_Class2 {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
