@@ -2,7 +2,7 @@ package charani_Package;
 
 import java.util.Scanner;
 
-public class Charani_Class {
+public class Charani_Class1 {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
@@ -11,6 +11,7 @@ public class Charani_Class {
 		System.out.println("Enter 2nd Number :");
 		int b = sc.nextInt();
 		System.out.println("Addition of A&B : "+(a+b));
+		
 	}
 
 }
