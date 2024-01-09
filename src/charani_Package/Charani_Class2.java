@@ -3,7 +3,7 @@ package charani_Package;
 public class Charani_Class2 {
 	public static void main(String[] args) {
 		
-		int Age=23;
+		int Age=16;
 		if(Age>18)
 		{
 			System.out.println("Person can be eligible to vote");
